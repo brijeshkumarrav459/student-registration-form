@@ -1,0 +1,26 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.navbar h1{
+    font-size: 70px;
+    color: #e16900;
+    text-align: center;
+}
+
+.navbar .heading{
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #45D7AD;
+    height: 80px;
+}
+
+.heading h3{
+    color: #fff;
+    font-size: 40px;
+}
